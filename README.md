@@ -1,26 +1,3 @@
-<p align="center">
-  <img src="./assets/logo.png" alt="Cover Ignite Node">
-</p>
-<h2 align="center">Chapter II - Challenge</h2>
-<h1 align="center">Users Management</h1>
-
-<h1 align="center">
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/nlnadialigia/dev.finances?color=91091e&style=flat-square"/>
-
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/nlnadialigia/ignite-solid?color=91091e"/>
-   
-  <img alt="Swagger" src="https://img.shields.io/swagger/valid/3.0?color=91091e&specUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fnlnadialigia%2Fignite-solid%2Fmain%2Fsrc%2Fswagger.json" />
-
-  <a href="./LICENSE.md">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=91091e"/>
-  </a>
-</h1>
-<br>
-
-<p align="right">
-  <a href="https://insomnia.rest/run/?label=https%3A%2F%2Fraw.githubusercontent.com%2Fnlnadialigia%2Fignite-solid%2Fmain%2Finsomnia.json&uri=" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
 # ℹ️ Index
 
 - [About the challenge](#-📔-about-the-challenge)
